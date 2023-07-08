@@ -3,7 +3,7 @@ import asyncio
 from telebot.async_telebot import AsyncTeleBot
 
 # Masukan API OPENAI & BOT TELEGRAM
-openai.api_key = "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"
+openai.api_key = "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"
 bot = AsyncTeleBot('6078660342:AAFxkjXMH93T5QqUEONMLnyQlzyhV4lVALI')
 
 
