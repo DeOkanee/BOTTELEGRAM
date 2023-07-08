@@ -15,7 +15,7 @@ Silakan ubah API pada OPENAI dan Telegram
 
 
 ## Installation
-  1. git clone https://github.com/ilham-mulia/BotTelegramOpenAI
+  1. git clone https://github.com/DeOkanee/BOTTELEGRAM.git
   2. cd BotTelegramOpenAI
   3. pip install -r permintaan.txt
   4. python main.py 
