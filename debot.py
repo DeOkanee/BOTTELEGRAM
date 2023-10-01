@@ -5,8 +5,8 @@ import speech_recognition as sr
 import os
 
 # Masukkan API OPENAI
-openai.api_key = "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"
-bot = telebot.TeleBot('6078660342:AAFxkjXMH93T5QqUEONMLnyQlzyhV4lVALI')
+openai.api_key = "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"
+bot = AsyncTeleBot('6615579760:AAFXYv12JQ8e-m8f2BccTorBm6_DFXqtsXE')
 
 
 @bot.message_handler(commands=['start'])
